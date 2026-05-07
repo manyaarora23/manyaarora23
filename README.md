@@ -102,17 +102,7 @@ class ManyaArora:
 
 </div>
 
----
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![snake gif](https://github.com/manyaarora23/manyaarora23/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 # 🚀 2026 Goals
 
@@ -155,7 +145,7 @@ secure by default
 
 <div align="center">
 
-<a href="PASTE_YOUR_LINKEDIN_HERE">
+<a href="https://www.linkedin.com/in/manya-arora-65792b314/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
