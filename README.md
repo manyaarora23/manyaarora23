@@ -72,15 +72,20 @@ class Manya:
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=manyaarora23&show_icons=true&theme=transparent&title_color=BFA181&text_color=CFCFCF&icon_color=BFA181&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manyaarora23&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaarora23&layout=compact&theme=transparent&title_color=BFA181&text_color=CFCFCF&hide_border=true"/>
-
-<br><br>
-
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=manyaarora23&theme=transparent&hide_border=true&ring=BFA181&fire=BFA181&currStreakLabel=BFA181"/>
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaarora23&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://streak-stats.demolab.com?user=manyaarora23&theme=tokyonight&hide_border=true"/>
+
+</div>
+
 
 ---
 
