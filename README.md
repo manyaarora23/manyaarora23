@@ -1,58 +1,175 @@
-# Hi there, I'm Manya Arora! 👋
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2496ED&width=435&lines=Computer+Science+Engineer;IoT+%26+Cybersecurity+Enthusiast;Backend+Developer;Data+Analyst" alt="Typing SVG" />
-</p>
+# Manya Arora
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=7F5AF0&center=true&vCenter=true&width=700&lines=Backend+Developer;Cybersecurity+Enthusiast;IoT+Explorer;Building+Secure+Systems" />
 
-### 🚀 About Me
-I am a Computer Science student specializing in **IoT, Cybersecurity, and Blockchain**. I focus on building secure backend systems and using data to drive insights.
+<img src="https://komarev.com/ghpvc/?username=manyaarora23&label=Profile+Views&color=7F5AF0&style=flat" />
 
-- 🔭 **Currently working on:** [Kitchenflow-v1](https://github.com/manyaarora23/kitchenflow-v1) - A FastAPI dispatcher for ghost kitchens.
-- ⚡ **Focusing on:** Advanced DSA and Data-driven security analysis.
-- 🛠️ **Tech Stack:** Proficient in Backend systems, IoT protocols, and Data Analysis.
-- 🎯 **Goal:** Bridge the gap between hardware (IoT) and secure software ecosystems.
+</div>
 
 ---
 
-### 💻 Tech Stack
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Languages & Backend**
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+## 🌌 About Me
 
-**Data Science & Analysis**
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=python&logoColor=white)
+```python
+class ManyaArora:
 
-**Specializations**
-![IoT](https://img.shields.io/badge/IoT-Actuators%20%26%20Sensors-green?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Blockchain-red?style=for-the-badge)
+    def __init__(self):
+        self.role = "Computer Science Engineer"
+
+        self.specializations = [
+            "Cybersecurity",
+            "IoT",
+            "Blockchain"
+        ]
+
+        self.latest_project = "Kitchenflow-v1"
+
+        self.focus = [
+            "Backend Development",
+            "Secure Systems",
+            "Data Analysis"
+        ]
+
+        self.learning = "Advanced DSA"
+
+    def motto(self):
+        return "Secure systems > flashy systems"
+```
+
+* ⚡ Building scalable backend systems
+* 🔐 Exploring cybersecurity & blockchain
+* 🌱 Learning advanced DSA and system design
+* 🚀 Passionate about secure software ecosystems
+* 🎯 Bridging hardware with secure software
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manyaarora23&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Manya's Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaarora23&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px"/>
-</p>
+# ⚔️ Tech Arsenal
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manyaarora23&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,fastapi,docker,mysql,git,linux,vscode,github" />
+
+<br><br>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,seaborn" />
+
+</div>
+
+---
+
+# 🏆 Open Source & Achievements
+
+<div align="center">
+
+🏅 Selected Contributor @ **GirlScript Summer of Code 2026**
+
+💻 Building backend-focused real world projects
+
+🔐 Interested in cybersecurity & secure architectures
+
+</div>
 
 ---
 
-### 📫 Let's Connect
-- **LinkedIn:**(https://www.linkedin.com/in/manya-arora-65792b314/)
-- **Codeforces:** https://codeforces.com/profile/manzz_23
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyaarora23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaarora23&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<div align="center">
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=manyaarora23&theme=tokyonight&hide_border=true&background=00000000"/>
+
+</div>
 
 ---
-<p align="center">
-  <i>"Efficiency is doing things right; effectiveness is doing the right things."</i>
-</p>
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=manyaarora23&theme=tokyo-night&hide_border=true&bg_color=00000000" width="95%"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![snake gif](https://github.com/manyaarora23/manyaarora23/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+# 🚀 2026 Goals
+
+```txt
+> Master Backend Development
+> Learn Cloud & Network Security
+> Build Production Grade APIs
+> Contribute More to Open Source
+> Strengthen DSA & System Design
+```
+
+---
+
+# 🌙 Developer Philosophy
+
+```txt
+Build systems that are:
+scalable
+observable
+secure by default
+```
+
+---
+
+# 🎧 Currently Into
+
+<div align="center">
+
+🖤 Cybersecurity
+⚡ Backend Architecture
+🌌 Dark UI/UX Aesthetics
+🔐 Secure Infrastructure
+📊 Data-Driven Systems
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+<a href="PASTE_YOUR_LINKEDIN_HERE">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/manyaarora23">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ "Secure systems are built intentionally."
+
+</div>
+
