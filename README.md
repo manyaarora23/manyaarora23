@@ -74,25 +74,7 @@ class ManyaArora:
 
 </div>
 
----
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manyaarora23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaarora23&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-</div>
-
-<div align="center">
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=manyaarora23&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
 
 # 📈 Contribution Graph
 
