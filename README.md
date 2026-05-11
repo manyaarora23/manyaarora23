@@ -77,8 +77,6 @@ class Manya:
 <div align="center">
 
 
-<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manyaarora23&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
 </div>
 
 <br>
